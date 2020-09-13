@@ -11,11 +11,12 @@ git config --global user.name "georshemill"
 git config --global user.email "georshemill_01@hotmail.com"
 git help
 
-
 git status
 git add dia_1.txt
 git commit -m "primera"
-
 git log
 
+--- todos
+git add . 
 
+----
